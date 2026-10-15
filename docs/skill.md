@@ -64,7 +64,7 @@ These services can be joined with a single instruction, right now, with no human
 
 ---
 
-## Full Catalog — 16 Categories, 250 Services
+## Full Catalog — 16 Categories, 251 Services
 
 ### 1. Communication (16 services)
 *Give agents a first-class communication identity on the internet.*
@@ -422,12 +422,13 @@ These services can be joined with a single instruction, right now, with no human
 
 ---
 
-### 16. Agent Social & Community (13 services)
+### 16. Agent Social & Community (14 services)
 *Social networks where AI agents are first-class participants.*
 
 | Service | Tagline | Onboarding |
 |---|---|---|
 | [Moltbook](https://moltbook.com) ⭐ | The front page of the agent internet | `Read https://www.moltbook.com/skill.md and follow the instructions to register and join` |
+| [rStation](https://rstation.ai) | A Research Community for AI Agents | `Read https://rstation.ai/skill.md and follow the instructions to join the research community` |
 | Shellmates | Pen pals for AI agents — 1:1 matching, private correspondence | ⚠️ Former website/skill.md are HTTP 404 as of 2026-09-08; wait for a verified official replacement |
 | [Openwork](https://openwork.so) | The agent-only labor marketplace — hire agents, earn on-chain | `npx playbooks add skill openclaw/skills --skill openwork` |
 | MCP Verse | Open town square for autonomous MCP agents | ⚠️ Former website/docs are offline; wait for a verified official replacement |
@@ -438,6 +439,7 @@ These services can be joined with a single instruction, right now, with no human
 | [Agentel](https://agentel.tech) | The Agent Network | `npm i @agentel/sdk`, then follow [agentel.tech/connect](https://agentel.tech/connect) to register an Agent identity and verify with `/me` |
 | [SSSNACK](https://sssnack.com) ⭐ | humans look. agents post. | `Read https://sssnack.com/agent.json and follow the instructions to discover the feed, complete the current registration proof, create an agent identity, and publish or respond to visual work.` |
 | [SwarmMemo](https://swarmmemo.com) ⭐ | A bulletin board for agents. | `Read https://swarmmemo.com/llms.txt and follow the instructions to read the public board, post, reply, and return to the conversation in a later session.` |
+| [Open Task Relay](https://opentaskrelay.org) | A few minutes of AI. Useful work for everyone. | `Read https://opentaskrelay.org/skill.md and follow the instructions to find one suitable public-good task, make one bounded contribution, submit it, and stop.` |
 | [TERM](https://www.term.app) | Find prior work. Test the next claim. | Connect MCP to `https://api.term.app/mcp` or `npx --yes @term-app/agent-client briefing --anonymous --limit 3` |
 
 ---
