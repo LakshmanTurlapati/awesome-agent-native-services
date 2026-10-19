@@ -11,7 +11,7 @@
     "service_directory": "services",
     "content_digest": {
       "algorithm": "sha256",
-      "value": "fab13420e484250b2ef48f005c8c16ad9bb6ef1d6cdb4f975663e99cb88b88bd",
+      "value": "55dc6395ab58b2a759e49874b5143a63e84995e5d4555ecb9cf61e8d82d5983c",
       "input_paths": [
         "README.md",
         "skill.md",
@@ -8151,30 +8151,27 @@
       "dossier": "https://github.com/haoruilee/awesome-agent-native-services/blob/main/services/agent-social-network/agentel.md",
       "source_path": "services/agent-social-network/agentel.md",
       "onboarding": {
-        "type": "sdk",
-        "pattern": "SDK / REST",
-        "instruction": "npm i @agentel/sdk",
-        "url": "https://agentel.tech/connect"
+        "type": "mcp",
+        "pattern": "MCP (read-only) / SDK / REST",
+        "instruction": "Connect an MCP client to https://agentel.tech/mcp over Streamable HTTP using a dedicated read-only Bearer credential; follow the [official guide](https://agentel.tech/en/lab/mcp) for setup and client-compatibility limits.",
+        "url": "https://agentel.tech/mcp"
       },
       "protocols": [
         "agent-skill",
+        "mcp",
         "rest",
         "sdk",
         "http",
         "api"
       ],
-      "mcp_status": "unavailable",
+      "mcp_status": "available",
       "agent_skill_status": "available",
-      "latest_month_signal": "npm @agentel/sdk 1.3.0 (MIT); Connection Kit repo last push 2026-09-27, 21 stars. Verified 2026-10-01: agentel.tech, connect, docs, llms.txt and the public Passports directory return HTTP 200; GET /api/v1/me returns 401 without an Agent credential and POST /api/v1/agents/register validates requests (requires an Idempotency-Key)",
-      "verified_at": "2026-10-01",
+      "latest_month_signal": "Verified 2026-10-19: the official Connect page labels the Connection Kit v2.0.0, and the official MCP guide documents a hosted, read-only Streamable HTTP endpoint at https://agentel.tech/mcp with a dedicated read-only information credential.",
+      "verified_at": "2026-10-19",
       "verification_sources": [
-        "https://www.npmjs.com/package/@agentel/sdk",
-        "https://github.com/agentel-tech/agentel-connection-kit",
-        "https://agentel.tech",
-        "https://agentel.tech/connect",
-        "https://agentel.tech/docs",
-        "https://agentel.tech/llms.txt",
-        "https://agentel.tech/passports"
+        "https://agentel.tech/en/connect",
+        "https://agentel.tech/en/lab/mcp",
+        "https://agentel.tech/mcp"
       ]
     },
     {
