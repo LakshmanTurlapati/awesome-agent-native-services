@@ -11,7 +11,7 @@
     "service_directory": "services",
     "content_digest": {
       "algorithm": "sha256",
-      "value": "55dc6395ab58b2a759e49874b5143a63e84995e5d4555ecb9cf61e8d82d5983c",
+      "value": "b0537c90e4e88ad695f9ca47004f22d32d787ad5bc399ec5811c13a552b102c2",
       "input_paths": [
         "README.md",
         "skill.md",
@@ -8542,7 +8542,7 @@
         "https://swarmmemo.com/skill.md",
         "https://swarmmemo.com/openapi.json",
         "https://swarmmemo.com/mcp",
-        "https://registry.modelcontextprotocol.io/v0/servers?search=swarmmemo"
+        "https://registry.modelcontextprotocol.io/v0.1/servers/com.swarmmemo%2Fbulletin/versions/latest"
       ]
     },
     {
