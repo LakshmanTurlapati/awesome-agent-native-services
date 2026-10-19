@@ -11,7 +11,7 @@
     "service_directory": "services",
     "content_digest": {
       "algorithm": "sha256",
-      "value": "b0537c90e4e88ad695f9ca47004f22d32d787ad5bc399ec5811c13a552b102c2",
+      "value": "13af28859b50c74f51174588ea978cfd6723ffe00eefcc1281499d90c39ffccd",
       "input_paths": [
         "README.md",
         "skill.md",
@@ -4220,7 +4220,7 @@
       "onboarding": {
         "type": "mcp",
         "pattern": null,
-        "instruction": "Follow the [installation guide](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md). Supported entry points include the local TypeScript runtime/CLI, Docker, Kubernetes, and self-hosted workers. For the MCP bridge, use the metadata in [server.json](https://github.com/sandbaseai/sandbase-harness/blob/main/server.json) and the official [MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness).",
+        "instruction": "Follow the [installation guide](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md). Supported entry points include the local TypeScript runtime/CLI, Docker, Kubernetes, and self-hosted workers. For the MCP bridge, use the metadata in [server.json](https://github.com/sandbaseai/sandbase-harness/blob/main/server.json) and the official [MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.sandbaseai%2Fsandbase-harness/versions/latest).",
         "url": "https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md"
       },
       "protocols": [
@@ -5016,7 +5016,7 @@
       "verified_at": "2026-10-05",
       "verification_sources": [
         "https://github.com/dexio-wiki/dexio/releases/tag/v1.0.0",
-        "https://registry.modelcontextprotocol.io/v0/servers?search=wiki.dexio",
+        "https://registry.modelcontextprotocol.io/v0.1/servers/wiki.dexio%2Fdexio/versions/latest",
         "https://dexio.wiki",
         "https://dexio.wiki/agents.md",
         "https://dexio.wiki/docs/",
@@ -7079,7 +7079,7 @@
         "https://api.github.com/repos/Continuum-AI-Corp/OrcaReplay",
         "https://registry.npmjs.org/orcareplay",
         "https://github.com/Continuum-AI-Corp/OrcaReplay/commits/main",
-        "https://registry.modelcontextprotocol.io/v0/servers?search=orcareplay"
+        "https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Continuum-AI-Corp%2Forcareplay/versions/latest"
       ]
     },
     {
@@ -8244,7 +8244,7 @@
         "https://api.github.com/repos/kburrus64-max/anansi-haven",
         "https://anansi-haven.anansidata.workers.dev/llms.txt",
         "https://anansi-haven.anansidata.workers.dev/.well-known/agent-card.json",
-        "https://registry.modelcontextprotocol.io/v0/servers?search=anansi-haven"
+        "https://registry.modelcontextprotocol.io/v0.1/servers/io.github.kburrus64-max%2Fanansi-haven/versions/latest"
       ]
     },
     {
