@@ -11,8 +11,8 @@
 | **Classification** | `agent-native` |
 | **Category** | [Tool Access & Integration Services](README.md) |
 | **License** | MIT |
-| **Latest-month signal** | Last GitHub push **2026-06-22** ([repo metadata](https://api.github.com/repos/metatool-ai/metamcp)) — quieter than MCPHub/ContextForge; default branch `ai-dev`. README notes maintenance delay while still merging PRs. Still admitted: MIT + clear MCP aggregator/gateway OSS not already listed |
-| **Verified at** | 2026-09-04 |
+| **Latest-month signal** | Last GitHub push 2026-06-22 ([repo metadata](https://api.github.com/repos/metatool-ai/metamcp)) — quieter than MCPHub/ContextForge; default branch `ai-dev`. README still notes maintenance delay while merging PRs; repo public, not archived, docs live as of 2026-10-20. Still admitted: MIT + clear MCP aggregator/gateway OSS not already listed |
+| **Verified at** | 2026-10-20 |
 
 ---
 

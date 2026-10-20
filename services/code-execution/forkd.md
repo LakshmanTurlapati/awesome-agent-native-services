@@ -11,8 +11,8 @@
 | **Classification** | `agent-native` |
 | **Category** | [Code Execution Services](README.md) |
 | **License** | Apache-2.0 |
-| **Latest-month signal** | Last GitHub push 2026-09-02 ([repo metadata](https://api.github.com/repos/deeplethe/forkd)); default branch `dev`; release tarball `forkd-v0.5.3` |
-| **Verified at** | 2026-09-04 |
+| **Latest-month signal** | Last GitHub push 2026-09-14 ([repo metadata](https://api.github.com/repos/deeplethe/forkd)); default branch `dev`; latest release tarball forkd-v0.5.3 |
+| **Verified at** | 2026-10-20 |
 
 ---
 

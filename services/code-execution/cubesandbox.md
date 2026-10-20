@@ -11,8 +11,8 @@
 | **Classification** | `agent-native` |
 | **Category** | [Code Execution Services](README.md) |
 | **License** | Apache-2.0 (GitHub SPDX shows `NOASSERTION` because `LICENSE` wraps Apache-2.0 plus third-party component exceptions — official file: “Cube Sandbox is licensed under the Apache-2.0 except for the third-party components listed below.”) |
-| **Latest-month signal** | Last GitHub push 2026-09-03 ([repo metadata](https://api.github.com/repos/TencentCloud/CubeSandbox)); one-click installer + E2B-compatible API on `:3000` |
-| **Verified at** | 2026-09-04 |
+| **Latest-month signal** | Last GitHub push 2026-10-19 ([repo metadata](https://api.github.com/repos/TencentCloud/CubeSandbox)); one-click installer + E2B-compatible API on :3000 |
+| **Verified at** | 2026-10-20 |
 
 ---
 
