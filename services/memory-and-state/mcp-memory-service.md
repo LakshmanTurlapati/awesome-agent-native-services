@@ -11,8 +11,8 @@
 | **Classification** | `agent-native` |
 | **Category** | [Memory & State Services](README.md) |
 | **License** | Apache-2.0 |
-| **Latest-month signal** | Last GitHub push 2026-09-02 ([repo metadata](https://api.github.com/repos/doobidoo/mcp-memory-service)); PyPI `mcp-memory-service`; homepage showed v11.10.0 on 2026-09-04 |
-| **Verified at** | 2026-09-04 |
+| **Latest-month signal** | Last GitHub push 2026-10-19 ([repo metadata](https://api.github.com/repos/doobidoo/mcp-memory-service)); PyPI `mcp-memory-service` 12.1.1 (2026-10-16); homepage showed v12.1.0 on 2026-10-20 |
+| **Verified at** | 2026-10-20 |
 
 ---
 

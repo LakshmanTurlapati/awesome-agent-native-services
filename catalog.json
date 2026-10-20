@@ -1,8 +1,8 @@
 {
   "$schema": "https://lihaorui.com/awesome-agent-native-services/catalog.schema.json",
   "schema_version": "1.0.0",
-  "catalog_version": "2026-10-19",
-  "generated_at": "2026-10-19",
+  "catalog_version": "2026-10-20",
+  "generated_at": "2026-10-20",
   "license": "CC0-1.0",
   "source": {
     "repository": "https://github.com/haoruilee/awesome-agent-native-services",
@@ -11,7 +11,7 @@
     "service_directory": "services",
     "content_digest": {
       "algorithm": "sha256",
-      "value": "d698edda4b65a808ad66b05b1b43fbd0152bcd99f17fd0c867a4b9f683ba5934",
+      "value": "6fac0657ae81ef73797cc7c93c619153dfa780a12a66d170f9f69a608a94e7e4",
       "input_paths": [
         "README.md",
         "skill.md",
@@ -2233,8 +2233,8 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Last GitHub push 2026-06-22 (repo metadata) — quieter than MCPHub/ContextForge; default branch ai-dev. README notes maintenance delay while still merging PRs. Still admitted: MIT + clear MCP aggregator/gateway OSS not already listed",
-      "verified_at": "2026-09-04",
+      "latest_month_signal": "Last GitHub push 2026-06-22 (repo metadata) — quieter than MCPHub/ContextForge; default branch ai-dev. README still notes maintenance delay while merging PRs; repo public, not archived, docs live as of 2026-10-20. Still admitted: MIT + clear MCP aggregator/gateway OSS not already listed",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/metatool-ai/metamcp"
       ]
@@ -5154,8 +5154,8 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Last GitHub push 2026-09-03 (repo metadata); PyPI graphiti-core; MCP server in-repo",
-      "verified_at": "2026-09-04",
+      "latest_month_signal": "Last GitHub push 2026-10-19 (repo metadata); PyPI graphiti-core 0.31.1 (2026-10-15); MCP server in-repo",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/getzep/graphiti"
       ]
@@ -5244,8 +5244,8 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Last GitHub push 2026-09-02 (repo metadata); PyPI mcp-memory-service; homepage showed v11.10.0 on 2026-09-04",
-      "verified_at": "2026-09-04",
+      "latest_month_signal": "Last GitHub push 2026-10-19 (repo metadata); PyPI mcp-memory-service 12.1.1 (2026-10-16); homepage showed v12.1.0 on 2026-10-20",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/doobidoo/mcp-memory-service"
       ]
@@ -6280,8 +6280,8 @@
       ],
       "mcp_status": "unavailable",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Last GitHub push 2026-09-03 (repo metadata); one-click installer + E2B-compatible API on :3000",
-      "verified_at": "2026-09-04",
+      "latest_month_signal": "Last GitHub push 2026-10-19 (repo metadata); one-click installer + E2B-compatible API on :3000",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/TencentCloud/CubeSandbox"
       ]
@@ -6379,8 +6379,8 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Last GitHub push 2026-09-02 (repo metadata); default branch dev; release tarball forkd-v0.5.3",
-      "verified_at": "2026-09-04",
+      "latest_month_signal": "Last GitHub push 2026-09-14 (repo metadata); default branch dev; latest release tarball forkd-v0.5.3",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/deeplethe/forkd"
       ]
@@ -8493,13 +8493,14 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "available",
-      "latest_month_signal": "Last GitHub push 2026-09-03; MIT plugin/skill repo at 0 stars on 2026-09-04 (hackyhunter/sssnack-plugin). Live agent.json, Streamable HTTP MCP, A2A card, and public feed verified 2026-09-04 (sssnack.com, agent.json, mcp.json)",
-      "verified_at": "2026-09-04",
+      "latest_month_signal": "Last GitHub push 2026-10-14; MIT plugin/skill repo at 0 stars on 2026-10-20 (hackyhunter/sssnack-plugin). Verified 2026-10-20: sssnack.com, agent.json and mcp.json return HTTP 200; the Streamable HTTP MCP at https://sssnack.com/api/mcp answers initialize as server version 0.20.3",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://github.com/hackyhunter/sssnack-plugin",
         "https://sssnack.com/",
         "https://sssnack.com/agent.json",
-        "https://sssnack.com/mcp.json"
+        "https://sssnack.com/mcp.json",
+        "https://sssnack.com/api/mcp"
       ]
     },
     {

@@ -12,8 +12,8 @@
 | **Category** | [Agent Social & Community Services](README.md) |
 | **License** | MIT |
 | **Interest disclosure** | Operator-submitted — the proposer of [#114](https://github.com/haoruilee/awesome-agent-native-services/issues/114) operates SSSNACK |
-| **Latest-month signal** | Last GitHub push 2026-09-03; MIT plugin/skill repo at **0 stars** on 2026-09-04 ([hackyhunter/sssnack-plugin](https://github.com/hackyhunter/sssnack-plugin)). Live `agent.json`, Streamable HTTP MCP, A2A card, and public feed verified 2026-09-04 ([sssnack.com](https://sssnack.com/), [agent.json](https://sssnack.com/agent.json), [mcp.json](https://sssnack.com/mcp.json)) |
-| **Verified at** | 2026-09-04 |
+| **Latest-month signal** | Last GitHub push 2026-10-14; MIT plugin/skill repo at **0 stars** on 2026-10-20 ([hackyhunter/sssnack-plugin](https://github.com/hackyhunter/sssnack-plugin)). Verified 2026-10-20: [sssnack.com](https://sssnack.com/), [agent.json](https://sssnack.com/agent.json) and [mcp.json](https://sssnack.com/mcp.json) return HTTP 200; the Streamable HTTP MCP at `https://sssnack.com/api/mcp` answers `initialize` as server version `0.20.3` |
+| **Verified at** | 2026-10-20 |
 
 ---
 

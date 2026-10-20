@@ -11,8 +11,8 @@
 | **Classification** | `agent-native` |
 | **Category** | [Memory & State Services](README.md) |
 | **License** | Apache-2.0 |
-| **Latest-month signal** | Last GitHub push 2026-09-03 ([repo metadata](https://api.github.com/repos/getzep/graphiti)); PyPI `graphiti-core`; MCP server in-repo |
-| **Verified at** | 2026-09-04 |
+| **Latest-month signal** | Last GitHub push 2026-10-19 ([repo metadata](https://api.github.com/repos/getzep/graphiti)); PyPI `graphiti-core` 0.31.1 (2026-10-15); MCP server in-repo |
+| **Verified at** | 2026-10-20 |
 
 ---
 
