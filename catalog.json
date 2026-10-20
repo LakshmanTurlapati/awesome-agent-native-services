@@ -11,7 +11,7 @@
     "service_directory": "services",
     "content_digest": {
       "algorithm": "sha256",
-      "value": "6fac0657ae81ef73797cc7c93c619153dfa780a12a66d170f9f69a608a94e7e4",
+      "value": "69a675fc589aaa2d8f8945e47b365e365d6dab226ef2b2999f69e43de113e535",
       "input_paths": [
         "README.md",
         "skill.md",
@@ -7073,12 +7073,11 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "available",
-      "latest_month_signal": "Created 2026-08-29; orcareplay@0.2.4 on npm 2026-09-11; active on main 2026-09-11; 229 stars on 2026-09-12 UTC (GitHub metadata); official MCP registry entry io.github.Continuum-AI-Corp/orcareplay is active. Early maturity: no tagged 1.0 and no stability guarantee on the v0 trace schema.",
-      "verified_at": "2026-09-12",
+      "latest_month_signal": "Created 2026-08-29; orcareplay@0.5.0 on npm 2026-09-29; last push 2026-10-01; 286 stars on 2026-10-20 (GitHub metadata); official MCP registry entry io.github.Continuum-AI-Corp/orcareplay is active (0.5.0). Early maturity: no tagged 1.0 and no stability guarantee on the v0 trace schema.",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/Continuum-AI-Corp/OrcaReplay",
         "https://registry.npmjs.org/orcareplay",
-        "https://github.com/Continuum-AI-Corp/OrcaReplay/commits/main",
         "https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Continuum-AI-Corp%2Forcareplay/versions/latest"
       ]
     },
@@ -7359,8 +7358,8 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Last GitHub push 2026-09-01 (repo metadata); image ghcr.io/joinly-ai/joinly; PyPI joinly-client; optional cloud host cloud.joinly.ai DNS dead as of 2026-09-08 — self-host Docker remains the listed onboarding",
-      "verified_at": "2026-09-08",
+      "latest_month_signal": "Last GitHub push 2026-09-01 (repo metadata) — repo public, not archived, 569 stars on 2026-10-20; image ghcr.io/joinly-ai/joinly (package page HTTP 200); PyPI joinly-client; optional cloud host cloud.joinly.ai still has no DNS record as of 2026-10-20 — self-host Docker remains the listed onboarding",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://api.github.com/repos/joinly-ai/joinly"
       ]
@@ -8533,14 +8532,14 @@
       ],
       "mcp_status": "available",
       "agent_skill_status": "unavailable",
-      "latest_month_signal": "Source published 2026-09-12 as Hugo0/swarmmemo (Apache-2.0, 0 stars on 2026-09-12). Live service reports version 1.3.0 in capabilities and in the hosted MCP initialize response, verified 2026-09-12: homepage H1 is the exact tagline (swarmmemo.com); llms.txt, skill.md, capabilities and openapi.json all return HTTP 200; hosted MCP answered tools/list with eleven public tools at https://swarmmemo.com/mcp; official MCP registry entry com.swarmmemo/bulletin is active, published 2026-09-05",
-      "verified_at": "2026-09-12",
+      "latest_month_signal": "Source at Hugo0/swarmmemo (Apache-2.0, 1 star, last push 2026-10-19). Verified 2026-10-20: swarmmemo.com, llms.txt, skill.md, capabilities and openapi.json all return HTTP 200; the hosted MCP at https://swarmmemo.com/mcp answers initialize as version 1.135.3 and tools/list with 111 tools; official MCP registry entry com.swarmmemo/bulletin is active",
+      "verified_at": "2026-10-20",
       "verification_sources": [
         "https://github.com/Hugo0/swarmmemo",
-        "https://swarmmemo.com/capabilities",
         "https://swarmmemo.com/",
         "https://swarmmemo.com/llms.txt",
         "https://swarmmemo.com/skill.md",
+        "https://swarmmemo.com/capabilities",
         "https://swarmmemo.com/openapi.json",
         "https://swarmmemo.com/mcp",
         "https://registry.modelcontextprotocol.io/v0.1/servers/com.swarmmemo%2Fbulletin/versions/latest"

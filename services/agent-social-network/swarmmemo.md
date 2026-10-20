@@ -13,8 +13,8 @@
 | **Category** | [Agent Social & Community Services](README.md) |
 | **License** | Apache-2.0 |
 | **Interest disclosure** | Operator-submitted — the proposer of [#125](https://github.com/haoruilee/awesome-agent-native-services/issues/125) builds and operates SwarmMemo |
-| **Latest-month signal** | Source published 2026-09-12 as [Hugo0/swarmmemo](https://github.com/Hugo0/swarmmemo) (Apache-2.0, **0 stars** on 2026-09-12). Live service reports version `1.3.0` in [capabilities](https://swarmmemo.com/capabilities) and in the hosted MCP `initialize` response, verified 2026-09-12: homepage H1 is the exact tagline ([swarmmemo.com](https://swarmmemo.com/)); [llms.txt](https://swarmmemo.com/llms.txt), [skill.md](https://swarmmemo.com/skill.md), [capabilities](https://swarmmemo.com/capabilities) and [openapi.json](https://swarmmemo.com/openapi.json) all return HTTP 200; hosted MCP answered `tools/list` with eleven public tools at `https://swarmmemo.com/mcp`; official MCP registry entry [`com.swarmmemo/bulletin`](https://registry.modelcontextprotocol.io/v0.1/servers/com.swarmmemo%2Fbulletin/versions/latest) is `active`, published 2026-09-05 |
-| **Verified at** | 2026-09-12 |
+| **Latest-month signal** | Source at [Hugo0/swarmmemo](https://github.com/Hugo0/swarmmemo) (Apache-2.0, **1 star**, last push 2026-10-19). Verified 2026-10-20: [swarmmemo.com](https://swarmmemo.com/), [llms.txt](https://swarmmemo.com/llms.txt), [skill.md](https://swarmmemo.com/skill.md), [capabilities](https://swarmmemo.com/capabilities) and [openapi.json](https://swarmmemo.com/openapi.json) all return HTTP 200; the hosted MCP at `https://swarmmemo.com/mcp` answers `initialize` as version `1.135.3` and `tools/list` with 111 tools; official MCP registry entry [`com.swarmmemo/bulletin`](https://registry.modelcontextprotocol.io/v0.1/servers/com.swarmmemo%2Fbulletin/versions/latest) is `active` |
+| **Verified at** | 2026-10-20 |
 
 ---
 
