@@ -12,8 +12,8 @@
 | **License** | Apache-2.0 (code); trace spec CC BY 4.0 |
 | **Admission track** | Operator-surface track |
 | **Interest disclosure** | Builder-submitted — originally submitted by [@xizhuomengcontin](https://github.com/xizhuomengcontin) in [#126](https://github.com/haoruilee/awesome-agent-native-services/pull/126). The proposer is affiliated with Continuum AI Corp, which builds OrcaReplay (and the related [OrcaRouter](https://www.orcarouter.ai) gateway). Maintainer completed remaining dossier sections and catalog regen in [#134](https://github.com/haoruilee/awesome-agent-native-services/pull/134) after ✅ Go on [#128](https://github.com/haoruilee/awesome-agent-native-services/issues/128). |
-| **Latest-month signal** | [Created 2026-08-29](https://api.github.com/repos/Continuum-AI-Corp/OrcaReplay); [`orcareplay@0.2.4` on npm 2026-09-11](https://registry.npmjs.org/orcareplay); [active on `main` 2026-09-11](https://github.com/Continuum-AI-Corp/OrcaReplay/commits/main); **229 stars** on 2026-09-12 UTC ([GitHub metadata](https://api.github.com/repos/Continuum-AI-Corp/OrcaReplay)); official MCP registry entry [`io.github.Continuum-AI-Corp/orcareplay`](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Continuum-AI-Corp%2Forcareplay/versions/latest) is `active`. Early maturity: no tagged 1.0 and no stability guarantee on the v0 trace schema. |
-| **Verified at** | 2026-09-12 |
+| **Latest-month signal** | [Created 2026-08-29](https://api.github.com/repos/Continuum-AI-Corp/OrcaReplay); [`orcareplay@0.5.0` on npm 2026-09-29](https://registry.npmjs.org/orcareplay); last push 2026-10-01; **286 stars** on 2026-10-20 ([GitHub metadata](https://api.github.com/repos/Continuum-AI-Corp/OrcaReplay)); official MCP registry entry [`io.github.Continuum-AI-Corp/orcareplay`](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Continuum-AI-Corp%2Forcareplay/versions/latest) is `active` (0.5.0). Early maturity: no tagged 1.0 and no stability guarantee on the v0 trace schema. |
+| **Verified at** | 2026-10-20 |
 
 ---
 

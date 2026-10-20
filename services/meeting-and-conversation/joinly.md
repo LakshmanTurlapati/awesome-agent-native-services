@@ -11,8 +11,8 @@
 | **Classification** | `agent-native` |
 | **Category** | [Meeting & Conversation](README.md) |
 | **License** | MIT |
-| **Latest-month signal** | Last GitHub push 2026-09-01 ([repo metadata](https://api.github.com/repos/joinly-ai/joinly)); image `ghcr.io/joinly-ai/joinly`; PyPI `joinly-client`; optional cloud host `cloud.joinly.ai` DNS dead as of 2026-09-08 — self-host Docker remains the listed onboarding |
-| **Verified at** | 2026-09-08 |
+| **Latest-month signal** | Last GitHub push 2026-09-01 ([repo metadata](https://api.github.com/repos/joinly-ai/joinly)) — repo public, not archived, 569 stars on 2026-10-20; image `ghcr.io/joinly-ai/joinly` (package page HTTP 200); PyPI `joinly-client`; optional cloud host `cloud.joinly.ai` still has no DNS record as of 2026-10-20 — self-host Docker remains the listed onboarding |
+| **Verified at** | 2026-10-20 |
 
 ---
 
